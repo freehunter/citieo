@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: We have the solution for you!
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Are you looking for a custom website, mobile app, or other technology solution? Looking to increase engagement with the residents and visitors to your town? Looking to move your small city into the digital world? Contact us today! support@citieo.com
