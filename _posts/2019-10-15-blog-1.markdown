@@ -1,0 +1,10 @@
+---
+layout: default
+img: phones.png
+category: Blog
+title: We have the solution for you!
+description: |
+---
+Are you looking for a custom website, mobile app, or other technology solution? Looking to increase engagement with the residents and visitors to your town? Looking to move your small city into the digital world? Contact us today!
+
+support@citieo.com
