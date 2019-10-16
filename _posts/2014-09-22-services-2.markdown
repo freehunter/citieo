@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: soli-words.png
 category: Services
 title: Soli - Adventure Awaits
 description: |
