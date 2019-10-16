@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: community.jpeg
 category: Services
 title: Citieo Community Sites
 description: |
