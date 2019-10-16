@@ -2,9 +2,30 @@
 layout: default
 img: phones.png
 category: Blog
-title: We have the solution for you!
-description: |
+title: Real Life
+description:
+permalink: /posts/citieo-real-life/
 ---
-Are you looking for a custom website, mobile app, or other technology solution? Looking to increase engagement with the residents and visitors to your town? Looking to move your small city into the digital world? Contact us today!
+**Social media. Virtual Reality. Augmented Reality. Online communities. What happened to the real world?**
 
-support@citieo.com
+Citieo is a company born out of the Midwest. In one of the states that [more people are moving away from](https://www.unitedvanlines.com/contact-united/news/movers-study-2018/index.html) than into. In a city that [Newsweek said was "dying"](https://www.mlive.com/news/grand-rapids/2011/01/newsweek_calls_grand_rapids_dy.html). We disagreed so strongly that [Newsweek later retracted the story](https://www.grbj.com/articles/75916-gr-no-longer-ranked-as-dying-city).
+
+In a world where virtual reality lets you pretend you're somewhere else, where augmented reality lets you change what your eyes are seeing, where social media and online communities let you disconnect from the real world, we believe in something else. We believe in returning to the real world. To real life. To the world and people outside your front door. Raw and unrefined, imperfect yet beautiful. Every city is someone's home, someone's history, someone's future. We believe in solving problems, not pretending they don't exist.
+
+**Citieo Community Sites**
+
+Citieo started in 2017, born out of a community-run website called [Everyday Rockford](https://everydayrockford.com/). This is our home, imperfect yet beautiful. A city with a public image of being stodgy and serious and old-fashioned, we set out to prove that it was a haven for young professionals. Live music, family events, yoga by the riverfront, and a welcoming and inviting community. It quickly grew into the largest digital media outlet in town, and we expanded to neighboring cities. Bringing community news and events to a digital audience, we proved that the cities aren't dying, that they're alive and vibrant. They just needed the right exposure.
+
+In 2019 we're bringing the same passion to other West Michigan towns. [Cedar Springs](https://everydaycedarsprings.com/), with a population of 3500 and a beautiful downtown full of empty storefronts. Lowell, in the exact same boat. [Ada](https://everydayada.com/), recovering from a population explosion without a downtown to foster economic activity. And we're just getting started.
+
+**Soli Adventure Awaits**
+
+In 2019, Citieo launching a new nation-wide app called Soli. At its heart, Soli is a tourism app. But what sets Soli apart is that it works everywhere. Other apps have a list of cities where they work. At best, they rely on user-generated content and those users only exist in bigger cities. That means these apps miss out on literally millions of interesting and worthwhile sights, leaving millions of people in the dark. Soli works everywhere, in every state, in every town, no matter how small. 
+
+Our goal with Soli is the goal of Citieo distilled: everywhere is interesting. The real world is just as worthwhile as any virtual world. All you have to do is step outside your door and start walking.
+
+**Real Life**
+
+Let's go for a walk. Step outside your door. Visit your community. Talk to your neighbors. See the sights. Be a tourist in your own town. We know our digital worlds are not real. Luckily there is a real world right outside. Let's be better. Let's be local. Let's put down roots. Let's go for a walk.
+
+If you're interested in helping, please contact us at support@citieo.com
